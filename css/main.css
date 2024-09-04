@@ -1,0 +1,66 @@
+/* 
+COLOR PALETTE
+Light Grey: #f3f4f7
+Medium Grey: #d2d7df
+Dark Cyan: #369696
+Vista Blue: #8BA4D0
+Space Cadet: #2b2d42
+*/
+
+/* GLOBAL STYLES */
+
+body {
+    background: #f3f4f7;
+}
+
+/* Links */
+
+a {
+    color: #369696;
+}
+a:hover {
+    color: #8BA4D0;
+    text-decoration: none;
+}
+footer a {
+    color: #8BA4D0;
+}
+footer a:hover {
+    color: #369696;
+}
+.btn {
+    background: #369696;
+    color: #f3f4f7ff;
+    text-decoration: none;
+}
+.btn:hover {
+    color: #f3f4f7ff;
+}
+
+/* HOME */
+
+.home {
+    background: url(../images/annie-spratt-unsplash.jpg) no-repeat;
+    background-size: cover;
+}
+.home .content-wrapper {
+    background: rgb(255 255 255 / 0.7);
+}
+
+/* About */
+
+/* Projects */
+
+/* Work Experience */
+
+/* Education */
+
+/* FOOTER */
+
+footer {
+    background: #2b2d42ff;
+    color: #d2d7dfff;
+}
+footer img {
+    width: 25px;
+}
